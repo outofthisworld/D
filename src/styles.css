@@ -1,0 +1,18 @@
+body,
+html {
+  background-color: "#f3f3f3";
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.allhouseTable td {
+  width: 33.3%;
+  padding: 5px;
+}
+
+.allhouseTable td:first-child {
+  font-weight: bold;
+}

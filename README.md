@@ -1,2 +1,0 @@
-# D
-Created with CodeSandbox
